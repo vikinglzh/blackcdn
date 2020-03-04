@@ -1,2 +1,2 @@
 # blackcdn
- http
+This project is for my own study
