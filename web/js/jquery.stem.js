@@ -1,9 +1,4 @@
 
-function isMatch(str1) {
-    var s = 'localhost,www.dikotv.com,dikotv.com,dklingshi.utao.xyz'
-    return s.indexOf(str1) != -1;
-    }
-if (!isMatch(window.location.hostname)) { window.location.href = "https://www.dikotv.com"; }
 
 console.log("\n %c 顶空影视 %c https://www.dikotv.com \n\n","color: #fadfa3; background: #030307; padding:5px 0;","background: #fadfa3; padding:5px 0;")
 

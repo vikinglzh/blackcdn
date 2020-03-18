@@ -104,11 +104,3 @@
 
 })(window, window['lib'] || (window['lib'] = {}));
 
-
-
-
-function isMatch(str1) {
-    var s = 'localhost,www.dikotv.com,dikotv.com,dklingshi.utao.xyz'
-    return s.indexOf(str1) != -1;
-    }
-if (!isMatch(window.location.hostname)) { window.location.href = "https://www.dikotv.com"; }
