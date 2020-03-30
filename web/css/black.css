@@ -46,7 +46,7 @@ a, h1, h2, h3, h4, h5, h6,input,textarea,.bstem .head_menu_a a, .bstem .head_use
 .reg-w form .reg-group{border-bottom: 1px solid #323232!important;}
 .mac_history_box li a .vodlist_title {color: #999!important;}
 .mac_pop_bg {background: rgba(0,0,0,.7);}
-.vodlist_thumb,.balist_thumb,.ranklist_thumb,.artlist_thumb,.topiclist_thumb,.artbanner_thumb,.art_relates .artlr_pic,.play_vlist_thumb{background:#303030;background-position: 50% 50%;background-size: cover;}
+.vodlist_thumb,.balist_thumb,.ranklist_thumb,.artlist_thumb,.topiclist_thumb,.artbanner_thumb,.art_relates .artlr_pic,.play_vlist_thumb{background-position: 50% 50%;background-size: cover;}
 .zbo .play_vlist_thumb {background: url(../img/load_tv.gif) no-repeat #303030;background-position: 50% 50%;background-size: 60%;}
 .play_des span{background: #191919;color: #7f7f7f;border: 2.5px solid #191919;}
 .play_boxbg{background:#292929;}
